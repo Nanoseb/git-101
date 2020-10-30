@@ -372,7 +372,7 @@ some GUI available, but be careful:
 # I am lost, what can I do?
 
 ![w:12cm right](http://justinhileman.info/article/git-pretty/git-pretty.png)
-* `git ... help`: detailed help pages
+* `git help ...`: detailed help pages
 * `git status`: to see what's going on
 * `git log ...`: to view the history
 * `git reset ...`: to go back in time 

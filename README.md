@@ -5,10 +5,11 @@ They were made in markdown using [marp](https://marp.app).
 
 The PDF is available on the release page or [here](https://github.com/Nanoseb/git-101/releases/download/v1.0/slides.pdf).
 
+Here you have some of the slides content for quick reference:
+
 ## Git workflow
 
-![](figure/workflow-inverted.svg)
-
+<img src="figure/workflow-inverted.svg" alt="Git general workflow" width="500"/>
 
 ## I am lost, what can I do?
 
